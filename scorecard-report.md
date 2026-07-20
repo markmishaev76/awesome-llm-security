@@ -4,7 +4,7 @@
 
 - **Repository**: `/home/runner/work/awesome-llm-security/awesome-llm-security`
 - **Languages**: none detected
-- **Assessed**: 2026-07-13 09:23 UTC
+- **Assessed**: 2026-07-20 08:54 UTC
 - **Checks**: 2/31 passed
 
 ## Summary
